@@ -2,7 +2,7 @@
 
 Welcome to the Ikon AI SDK Releases repository.
 
-Please see the [Releases](https://github.com/ikonlive/ikon-sdk-releases/releases) page for all official SDK releases.
+Please see the [Releases](https://github.com/ikon-ai/ikon-sdk-releases/releases) page for all official SDK releases.
 
 ## License
 
